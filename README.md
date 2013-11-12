@@ -1,6 +1,12 @@
 # MongoDB Troubleshooter
 
-# Tutorial
+## Download jar
+
+Download `mongodb-troubleshooter-1.0.0-***-jar-with-dependencies.jar`
+
+https://repository-cyrille-leclerc.forge.cloudbees.com/snapshot/localdomain/localhost/mongodb-troubleshooter/1.0.0-SNAPSHOT/
+
+## Tutorial
 
 **Command line**
 
